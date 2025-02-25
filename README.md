@@ -13,6 +13,7 @@ Overview
 
 In today’s highly competitive e-commerce market, data-driven decision-making is essential for sustainable growth. This analysis examines an extensive dataset to highlight trends in sales, customer behavior, and revenue generation. Using SQL-based queries, I identified insights that can help businesses improve marketing, boost customer retention, and increase profits.
 
+
 Key Findings & Recommendations;
 
 1. Top-Selling Products vs. Revenue-Generating Products
@@ -31,6 +32,8 @@ Leverage targeted promotions to further boost sales of best-selling items.
 
 Bundle high-priced products with best-sellers to boost order value.
 
+
+
 2. Revenue Distribution & Product Performance
 
 •	The electronics category accounts for the majority of revenue, significantly outperforming other product categories.
@@ -46,6 +49,7 @@ Explore opportunities to strengthen sales in underperforming categories.
 Introduce related products to the electronics segment to enhance cross-selling.
 
 Expand the product variety to reduce dependency on the best-seller.
+
 
 
 3. High-Value Customers Drive the Majority of Sales
@@ -64,6 +68,8 @@ Offer exclusive deals or early access to new products.
 
 Improve the post-purchase experience to encourage repeat orders.
 
+
+
 4. Customer Churn & Retention Challenges
 
 •	Some customer groups show high churn risk, likely due to low engagement or poor experience
@@ -79,6 +85,8 @@ Identify at-risk customers early and re-engage them with special offers.
 Use targeted email campaigns and discounts to bring back inactive users.
 
 Improve customer support and streamline the shopping experience to boost retention.
+
+
 
 5. Customer Engagement & Purchase Behavior by Traffic Source
 
@@ -96,6 +104,8 @@ Continuously refine paid ad targeting to maximize return on ad spend.
 
 Implement retargeting campaigns for users acquired via ads to increase retention.
 
+
+
 6. Seasonal Trends & Sales Fluctuations
 
 •	Sales show noticeable spikes during specific months, indicating seasonal demand.
@@ -111,6 +121,8 @@ Stock up on high-demand products before peak seasons.
 Launch time-sensitive promotions to capitalize on seasonal shopping trends.
 
 Use predictive analytics to anticipate future seasonal demand.
+
+
 
 7. Refund Rate & Customer Satisfaction
 
@@ -130,10 +142,15 @@ Offer easy but structured refund processes to maintain customer trust while mini
 
 Implement a proactive customer support system to address concerns before refunds become necessary.
 
+
 Conclusion
 
 This analysis provides key insights that can help businesses fine-tune their strategies, improve customer retention, and maximize revenue. Addressing churn, optimizing 
 product pricing, and fostering customer loyalty will ensure long-term success in the e-commerce industry.
 
+
 N/B: This analysis was conducted using SQL queries. For a deeper look into the queries, check out the complete code in this repository and feel free to contribute.
 
+LinkedIn: https://www.linkedin.com/in/giftchisom
+
+GitHub: https://www.github.com/Gift70
